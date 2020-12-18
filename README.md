@@ -3,7 +3,7 @@
 Kumpulan ui component react native yang mantap betul.
 
 ## UI Components
-
+- [react-native-scroll-bottom-sheet](https://github.com/rgommezz/react-native-scroll-bottom-sheet)
 - [react-native-modalbox](https://github.com/maxs15/react-native-modalbox)
 - [react-native-chart](https://github.com/tomauty/react-native-chart)
 - [react-native-gifted-listview](https://github.com/FaridSafi/react-native-gifted-listview)
