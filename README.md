@@ -58,3 +58,4 @@ Kumpulan ui component react native yang mantap betul.
 - [react-native-custom-picker](https://github.com/budiadiono/react-native-custom-picker)
 - [rn-bottom-drawer](https://github.com/jacklein/rn-bottom-drawer)
 - [react-native-suggester](https://github.com/xcarpentier/react-native-suggester)
+- [react-native-quick-actions](https://github.com/jordanbyron/react-native-quick-actions)
